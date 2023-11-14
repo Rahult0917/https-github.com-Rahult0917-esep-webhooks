@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xu8aot3ji3FE6L7Kg7F3VwhG/+vSy4d1Gn7iSUsq6oSoOzII2LjQwc8SQA9Tf91lnnTOankiJLmKFAcBSVJpVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laser\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laser\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\laser\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\laser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\laser\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
